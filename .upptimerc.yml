@@ -16,9 +16,9 @@ sites:
     method: HEAD
     url: https://www.google.com
   - name: ComCom
-    method: https://comcom.ai
+    url: https://comcom.ai
   - name: AINetwork
-    method: https://ainetwork.ai
+    url: https://ainetwork.ai
   - name: Secret Site
     url: $SECRET_SITE
 
