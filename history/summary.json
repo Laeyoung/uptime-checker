@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 66,
-    "timeWeek": 81,
-    "timeMonth": 78,
+    "timeDay": 85,
+    "timeWeek": 83,
+    "timeMonth": 76,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 43,
-    "timeWeek": 135,
-    "timeMonth": 112,
-    "timeYear": 122,
+    "time": 124,
+    "timeDay": 249,
+    "timeWeek": 145,
+    "timeMonth": 119,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.94%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 337,
-    "timeMonth": 381,
-    "timeYear": 383,
+    "time": 382,
+    "timeDay": 323,
+    "timeWeek": 339,
+    "timeMonth": 378,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2021-03-15": 204
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 22,
+    "time": 21,
     "timeDay": 12,
-    "timeWeek": 23,
+    "timeWeek": 18,
     "timeMonth": 18,
-    "timeYear": 22,
+    "timeYear": 21,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 180,
-    "timeWeek": 538,
-    "timeMonth": 387,
-    "timeYear": 376,
+    "time": 374,
+    "timeDay": 175,
+    "timeWeek": 382,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1704,
-    "timeDay": 580,
-    "timeWeek": 1923,
-    "timeMonth": 1677,
-    "timeYear": 1704,
+    "time": 1713,
+    "timeDay": 2391,
+    "timeWeek": 1808,
+    "timeMonth": 1731,
+    "timeYear": 1713,
     "dailyMinutesDown": {
       "2021-03-07": 22
     }
