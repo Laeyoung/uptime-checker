@@ -105,9 +105,9 @@
     "url": "https://comcom.ai",
     "icon": "https://favicons.githubusercontent.com/comcom.ai",
     "slug": "com-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -117,6 +117,7 @@
     "timeMonth": 270,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-02-24": 50
     }
   },
