@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 126,
-    "timeWeek": 120,
-    "timeMonth": 120,
+    "timeDay": 90,
+    "timeWeek": 124,
+    "timeMonth": 121,
     "timeYear": 94,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 211,
-    "timeWeek": 212,
-    "timeMonth": 177,
-    "timeYear": 213,
+    "time": 227,
+    "timeDay": 733,
+    "timeWeek": 269,
+    "timeMonth": 195,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2022-03-05": 20
     }
@@ -48,16 +48,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 316,
-    "timeDay": 423,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 311,
+    "time": 315,
+    "timeDay": 126,
+    "timeWeek": 234,
+    "timeMonth": 267,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2022-07-31": 16,
       "2022-07-09": 121,
-      "2022-07-08": 523,
-      "2022-01-19": 19
+      "2022-07-08": 523
     }
   },
   {
@@ -90,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 74,
-    "timeWeek": 33,
+    "timeDay": 22,
+    "timeWeek": 35,
     "timeMonth": 32,
     "timeYear": 22,
     "dailyMinutesDown": {}
@@ -108,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 229,
-    "timeDay": 128,
-    "timeWeek": 212,
-    "timeMonth": 234,
+    "timeDay": 282,
+    "timeWeek": 235,
+    "timeMonth": 237,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2022-08-24": 98,
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1589,
-    "timeDay": 2137,
-    "timeWeek": 2774,
-    "timeMonth": 2628,
-    "timeYear": 1659,
+    "time": 1588,
+    "timeDay": 1909,
+    "timeWeek": 2562,
+    "timeMonth": 2597,
+    "timeYear": 1663,
     "dailyMinutesDown": {
       "2022-11-16": 30,
       "2022-06-21": 19,
