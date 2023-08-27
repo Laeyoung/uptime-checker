@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 366,
-    "timeWeek": 117,
-    "timeMonth": 119,
-    "timeYear": 109,
+    "timeDay": 61,
+    "timeWeek": 115,
+    "timeMonth": 113,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2023-07-31": 33
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 284,
-    "timeWeek": 269,
-    "timeMonth": 224,
-    "timeYear": 220,
+    "time": 218,
+    "timeDay": 846,
+    "timeWeek": 268,
+    "timeMonth": 248,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 309,
-    "timeDay": 359,
-    "timeWeek": 319,
-    "timeMonth": 325,
-    "timeYear": 308,
+    "timeDay": 416,
+    "timeWeek": 320,
+    "timeMonth": 326,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-07-13": 91,
       "2023-03-28": 63,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 68,
-    "timeWeek": 24,
-    "timeMonth": 25,
+    "timeDay": 9,
+    "timeWeek": 21,
+    "timeMonth": 23,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -109,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 252,
-    "timeDay": 228,
-    "timeWeek": 163,
-    "timeMonth": 204,
+    "time": 251,
+    "timeDay": 107,
+    "timeWeek": 162,
+    "timeMonth": 198,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2023-05-04": 34
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1410,
-    "timeDay": 686,
-    "timeWeek": 354,
-    "timeMonth": 509,
-    "timeYear": 1405,
+    "time": 1409,
+    "timeDay": 279,
+    "timeWeek": 363,
+    "timeMonth": 497,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2023-02-12": 21,
       "2022-11-16": 30
