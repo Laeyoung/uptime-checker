@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 94,
-    "timeWeek": 88,
+    "timeDay": 78,
+    "timeWeek": 89,
     "timeMonth": 77,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 234,
-    "timeWeek": 188,
-    "timeMonth": 185,
-    "timeYear": 213,
-    "dailyMinutesDown": {
-      "2023-01-25": 18
-    }
+    "timeDay": 27,
+    "timeWeek": 138,
+    "timeMonth": 180,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,10 +49,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.87%",
     "time": 319,
-    "timeDay": 74,
-    "timeWeek": 197,
-    "timeMonth": 245,
-    "timeYear": 322,
+    "timeDay": 93,
+    "timeWeek": 165,
+    "timeMonth": 236,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2024-01-15": 25,
       "2024-01-10": 126,
@@ -99,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 17,
+    "timeDay": 22,
+    "timeWeek": 20,
+    "timeMonth": 18,
     "timeYear": 25,
     "dailyMinutesDown": {}
   },
@@ -114,12 +112,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 266,
-    "timeDay": 312,
-    "timeWeek": 236,
-    "timeMonth": 201,
+    "timeDay": 344,
+    "timeWeek": 264,
+    "timeMonth": 209,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2023-12-24": 16,
@@ -138,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 3391,
-    "timeWeek": 2089,
-    "timeMonth": 708,
-    "timeYear": 834,
+    "time": 1143,
+    "timeDay": 2481,
+    "timeWeek": 2408,
+    "timeMonth": 780,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2023-02-12": 21
     }
