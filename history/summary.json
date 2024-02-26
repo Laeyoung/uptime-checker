@@ -132,18 +132,16 @@
     "slug": "ai-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1252,
     "timeDay": 9652,
     "timeWeek": 4632,
     "timeMonth": 3422,
     "timeYear": 946,
-    "dailyMinutesDown": {
-      "2024-02-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
