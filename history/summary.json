@@ -4,10 +4,10 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
@@ -16,6 +16,7 @@
     "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2024-04-16": 1,
       "2023-07-31": 33
     }
   },
@@ -90,10 +91,10 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
@@ -101,7 +102,9 @@
     "timeWeek": 46,
     "timeMonth": 29,
     "timeYear": 25,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 1
+    }
   },
   {
     "name": "ComCom",
