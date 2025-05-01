@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 214,
-    "timeWeek": 107,
-    "timeMonth": 101,
+    "timeDay": 174,
+    "timeWeek": 119,
+    "timeMonth": 99,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-01-29": 16,
-      "2024-10-06": 23,
-      "2024-05-01": 35
+      "2024-10-06": 23
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 203,
-    "timeWeek": 161,
-    "timeMonth": 189,
+    "timeDay": 166,
+    "timeWeek": 174,
+    "timeMonth": 194,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -51,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 177,
-    "timeWeek": 375,
-    "timeMonth": 318,
+    "timeDay": 157,
+    "timeWeek": 336,
+    "timeMonth": 311,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-03-25": 32,
@@ -91,14 +90,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 64,
-    "timeWeek": 22,
-    "timeMonth": 22,
+    "timeDay": 44,
+    "timeWeek": 26,
+    "timeMonth": 20,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2025-01-29": 15,
-      "2024-10-06": 23,
-      "2024-05-01": 35
+      "2024-10-06": 23
     }
   },
   {
@@ -113,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 308,
-    "timeWeek": 277,
-    "timeMonth": 253,
-    "timeYear": 240,
+    "timeDay": 467,
+    "timeWeek": 305,
+    "timeMonth": 265,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1696,
-    "timeDay": 583,
-    "timeWeek": 511,
-    "timeMonth": 484,
-    "timeYear": 1393,
+    "time": 1697,
+    "timeDay": 510,
+    "timeWeek": 562,
+    "timeMonth": 476,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2025-03-13": 93,
       "2025-03-12": 254,
