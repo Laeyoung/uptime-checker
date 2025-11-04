@@ -106,8 +106,8 @@
     "slug": "com-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 245,
@@ -116,7 +116,6 @@
     "timeMonth": 264,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-11-03": 3,
       "2025-10-20": 55
     }
   },
