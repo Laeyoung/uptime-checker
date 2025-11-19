@@ -19,6 +19,8 @@ sites:
     url: https://comcom.ai
   - name: AINetwork
     url: https://ainetwork.ai
+  - name: Ohgu-Bot
+    url: https://dusty-gussi-a21i-a1179ac7.koyeb.app/live
   - name: Secret Site
     url: $SECRET_SITE
 
