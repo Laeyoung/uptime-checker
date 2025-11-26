@@ -147,18 +147,20 @@
     "url": "https://dusty-gussi-a21i-a1179ac7.koyeb.app/live",
     "icon": "https://icons.duckduckgo.com/ip3/dusty-gussi-a21i-a1179ac7.koyeb.app.ico",
     "slug": "ohgu-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 235,
-    "timeWeek": 254,
-    "timeMonth": 254,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "time": 265,
+    "timeDay": 291,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   },
   {
     "name": "Secret Site",
