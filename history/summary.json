@@ -147,17 +147,17 @@
     "url": "https://dusty-gussi-a21i-a1179ac7.koyeb.app/live",
     "icon": "https://icons.duckduckgo.com/ip3/dusty-gussi-a21i-a1179ac7.koyeb.app.ico",
     "slug": "ohgu-bot",
-    "status": "up",
-    "uptime": "95.51%",
-    "uptimeDay": "9.60%",
+    "status": "down",
+    "uptime": "95.52%",
+    "uptimeDay": "12.20%",
     "uptimeWeek": "52.01%",
-    "uptimeMonth": "80.81%",
-    "uptimeYear": "95.51%",
-    "time": 4223,
-    "timeDay": 2058,
-    "timeWeek": 5797,
-    "timeMonth": 5505,
-    "timeYear": 4223,
+    "uptimeMonth": "80.89%",
+    "uptimeYear": "95.52%",
+    "time": 4230,
+    "timeDay": 2997,
+    "timeWeek": 5806,
+    "timeMonth": 5509,
+    "timeYear": 4230,
     "dailyMinutesDown": {
       "2026-03-29": 481,
       "2026-03-28": 976,
@@ -173,7 +173,7 @@
       "2026-03-17": 578,
       "2026-03-16": 661,
       "2026-03-15": 400,
-      "2026-03-14": 135
+      "2026-03-14": 103
     }
   },
   {
