@@ -40,7 +40,7 @@
     "timeDay": 268,
     "timeWeek": 149,
     "timeMonth": 167,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "timeDay": 326,
     "timeWeek": 221,
     "timeMonth": 303,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-12-17": 34
     }
@@ -114,7 +114,7 @@
     "timeDay": 215,
     "timeWeek": 258,
     "timeMonth": 241,
-    "timeYear": 278,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2026-02-22": 28,
       "2025-12-25": 18,
@@ -147,19 +147,19 @@
     "url": "https://dusty-gussi-a21i-a1179ac7.koyeb.app/live",
     "icon": "https://icons.duckduckgo.com/ip3/dusty-gussi-a21i-a1179ac7.koyeb.app.ico",
     "slug": "ohgu-bot",
-    "status": "down",
-    "uptime": "95.20%",
-    "uptimeDay": "58.91%",
-    "uptimeWeek": "48.34%",
-    "uptimeMonth": "78.80%",
-    "uptimeYear": "95.20%",
-    "time": 4153,
-    "timeDay": 4463,
-    "timeWeek": 3953,
-    "timeMonth": 5259,
-    "timeYear": 4153,
+    "status": "up",
+    "uptime": "95.18%",
+    "uptimeDay": "56.49%",
+    "uptimeWeek": "48.25%",
+    "uptimeMonth": "78.72%",
+    "uptimeYear": "95.18%",
+    "time": 4145,
+    "timeDay": 4178,
+    "timeWeek": 3952,
+    "timeMonth": 5244,
+    "timeYear": 4145,
     "dailyMinutesDown": {
-      "2026-04-02": 591,
+      "2026-04-02": 626,
       "2026-04-01": 753,
       "2026-03-31": 637,
       "2026-03-30": 1008,
